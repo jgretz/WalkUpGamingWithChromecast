@@ -1,16 +1,8 @@
-Walk Up Gaming With Chrome (Description in progress)
-=========================
+Walk Up Gaming With Chromecast
+============================
 
-Nintendo days, side by side gaming 
+The Chromecast may be a "simple" device, but the building blocks it provides are powerful. Under the covers, the Chromecast is actually just Chrome, and this fact allows developers to use the entire front-end web stack to create amazing experiences. By combining a Chromecast with the mobile devices everyone carries with them amazing experiences can be crafted that can surprise and delight the user. One experience worth experimenting with is the return of side-by-side gaming.
 
-Chromecast ability to be a gaming display
+Many geeks who grew up in the 80's and 90's fondly remember hours of side-by-side gaming with their friends - and the friendly banter that went with it. With the advent of online gaming, the need to physically be in the same space has disappeared, but the fun that being together created has been lost as well. Though the world has moved on, there is an opportunity to recapture a bit of this magic by re-imagining it with modern technology.
 
-Devices as controllers
-
-UX / Security Concerns
-
-Tech we will cover:
-
-1) Chromecast development
-2) Client implications
-3) Server implications
+ This talk will examine an experimental app which allows any individual passing by to join into a running game. The participant can use their phone as the controller and will watch the Chromecast as the central display. Along the way, the talk will cover topics such as developing for the Chromecast, integrating devices into the experience, and an examination of this type of game play. Come to not only see a fun application of technology, but also to start dreaming of how you could harness this power. 
